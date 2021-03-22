@@ -1,4 +1,4 @@
-Thank you for using our template!
+# Burger Template
 
 For more awesome templates please visit https://colorlib.com/wp/templates/
 
